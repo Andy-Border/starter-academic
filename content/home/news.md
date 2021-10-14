@@ -34,8 +34,13 @@ design:
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
-
-* [06/05/2021] I'm going to be a research intern at Microsoft Research Asia (MSRA) starting July 14, 2021.
+* [09/25/2021] I was invited to serve as a reviewer of TNNLS-2021.
+* [09/17/2021] Our works NSHE and HGSL are included in OpenHGNN.
+* [08/31/2021] I delivered a talk on Graph Transformers at MSRA Social Computing Group.
+* [07/26/2021] Our work NSHE is included in DGL 0.7.
+* [06/22/2021] I delivered a talk on Graph Structure Learning at MSRA Social Computing Group.
+* [06/05/2021] I'm going to be a research intern at Microsoft Research Asia (MSRA) starting July 13, 2021.
 * [04/28/2021] I was invited to serve as a reviewer of TKDE-2021.
 * [03/13/2021] I was invited to serve as a reviewer of BigData-2021.
-* [01/30/2021] I was invited to deliver a talk on heterogeneous graph structure learning at the Webnair organized by AI-Drive.
+* [01/30/2021] I delivered a talk on heterogeneous graph structure learning at the Webnair organized by AI-Drive.
+
