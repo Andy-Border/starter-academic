@@ -10,17 +10,18 @@ role: CS Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-- name: Case Western Reserve University
-  url: "https://case.edu/"
+- name: University of Notre Dame
+  url: "https://www.nd.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a research intern at Microsoft Research Asia and preparing for application of CS PhD (2022 Fall). Before that, I was pursuing a PhD degree at Case Western Reserve University (CWRU) with T. and D. Schroeder Associate Professor Yanfang (Fanny) Ye. Unfortunately, due to the visa restrictions of 10043 act, I cannot study in US. Hence, regrettably, I have to apply for a PhD outside US. Before joining CWRU, I received my MSc majored in computer science at BUPT supervised by Professor Chuan Shi. My research interests are machine Learning, graph mining, and representation learning. 
+bio: I am a research intern at Microsoft Research Asia adviced by Chaozhuo Li and Xing Xie. Besides, I am pursuing a PhD degree at University of Notre Dame with Prof. Yanfang (Fanny) Ye. Unfortunately, due to the visa restrictions of 10043 act, I cannot study in US. Hence, regrettably, I have to pursue my PhD remotely outside US. Before joining NDU, I received my MSc majored in computer science at BUPT supervised by Professor Chuan Shi. I enjoy doing research on graph machine learning. My CV is available </u>here</u>.
+
 
 education:
   courses:
   - course: PhD in Computer Science
-    institution: Case Western Reserve University
-    year: 2020~Now
+    institution: Notre Dame Unviersity
+    year: Now~2025
   - course: MSc(Technology) in Computer Science and Technology
     institution: Beijing University of Posts and Telecommunications
     year: 2017~2020
@@ -29,9 +30,9 @@ education:
     year: 2013~2017
 
 interests:
-- Machine Learning
-- Graph Mining
+- Machine Learning on Graph
 - Representation Learning
+- Natural Language Processing
 
 
 
@@ -46,12 +47,12 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Pb_UoYwAAAAJ
-
+- icon: cv
+  icon_pack: ai
+  link: files/CV.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -65,6 +66,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am currently a research intern at Microsoft Research Asia and preparing for application of CS PhD (2022 Fall). Before that, I was pursuing a PhD degree at Case Western Reserve University (CWRU) with T. and D. Schroeder Associate Professor Yanfang (Fanny) Ye. Unfortunately, due to the visa restrictions of 10043 act, I cannot study in US. Hence, regrettably, I have to apply for a PhD outside US. Before joining CWRU, I received my MSc majored in computer science at BUPT supervised by Professor Chuan Shi. My research interests are machine Learning, graph mining, and representation learning.  
+I am a research intern at Microsoft Research Asia adviced by Chaozhuo Li and Xing Xie. Besides, I am pursuing a PhD degree at University of Notre Dame with Prof. Yanfang (Fanny) Ye. Unfortunately, I cannot study in US due to the visa restrictions of 10043 act. Hence, regrettably, I have to pursue my PhD remotely outside US. Before joining NDU, I received my MSc majored in computer science at BUPT supervised by Professor Chuan Shi. I enjoy doing research on graph machine learning. 
 
-Besides research, I love workout and meditation. I'm also a big fan of music. I play fingerstyle guitar and founded a guitar club at Microsoft Research Asia (Beijing).
+Besides research, I maintain a wide range of hobbies including reading, climbing, and playing fingerstyle guitar. I take great pleasure in training my mind (meditation) and body (climbing, body building). I'm the founder and organizer of Microsoft (Beijing) Intern Guitar Club (Feel free to drop at our monthly guitar session 😆).

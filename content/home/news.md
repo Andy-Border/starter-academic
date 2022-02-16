@@ -34,10 +34,10 @@ design:
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
-* [10/28/2021] Our paper "RxNet: Rx-refill Graph Neural Network for Overprescribing Detection" was nominated for best paper award of CIKM2021. 
+* [01/14/2022] Our paper "Prohibited Item Detection via Risk Graph Structure Learning" was accepted as WWW2022!
+* [11/02/2021] Our paper "RxNet: Rx-refill Graph Neural Network for Overprescribing Detection" won the [Best Full Paper Award](https://www.cikm2021.org/programme/best-paper-nominations) of CIKM2021! 
 * [10/26/2021] Our new work [Gophormer](https://arxiv.org/abs/2110.13094) is released. Gophormer achieved state-of-the-art results on node classification tasks, revealing the promising future of Graph Transformers.
 * [10/25/2021] I delivered a talk on Graph Transformers at BUPT GAMMA Lab.
-
 * [09/25/2021] I was invited to serve as a reviewer of TNNLS-2021.
 * [09/17/2021] Our works HGSL and NSHE are included in [OpenHGNN](https://github.com/BUPT-GAMMA/OpenHGNN).
 * [07/26/2021] Our work NSHE is included in [DGL](https://www.dgl.ai) 0.7.
